@@ -8,6 +8,7 @@ v) Create a Branch
 vi) Add some raw code to the branch
 vii) Merge the Branch with Main line
 And at the end provide the Summary of advantages of moving from Centralized Source Code to Distributed Version Control.
+added new code.
 
 
 
